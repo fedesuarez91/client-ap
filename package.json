@@ -1,0 +1,31 @@
+{
+  "name": "cliente",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.0.2",
+    "apollo-link-context": "^1.0.20",
+    "date-fns": "^2.15.0",
+    "formik": "^2.1.5",
+    "graphql": "^15.3.0",
+    "jspdf": "^2.1.0",
+    "jspdf-autotable": "^3.5.10",
+    "next": "9.4.4",
+    "node-fetch": "^2.6.1",
+    "react": "16.13.1",
+    "react-day-picker": "^7.4.8",
+    "react-dom": "16.13.1",
+    "react-select": "^3.1.0",
+    "sweetalert2": "^9.17.0",
+    "yup": "^0.29.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-plugin-react": "^7.20.5"
+  }
+}
